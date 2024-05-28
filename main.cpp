@@ -2,6 +2,7 @@
 
 void main(void){
 
-  std::cout<< "Hello world";
+  std::cout<< "Hello world\n";
+  std::cout<< "Hello worldf\n";
 
 };
